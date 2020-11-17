@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="menu.xsl" type="text/xsl" ?>
+<!DOCTYPE menu SYSTEM "menu.dtd">
+
+<breakfast_menu>
+   <food>
+       <name>Croissant</name>
+       <price>45</price>
+       <description>French style baked croissants wih a delicious chocolate and butter filling</description>
+       <calories>650</calories> </food>
+   <food>
+       <name>Crepe</name>
+       <price>35</price>
+       <description>Sweet toned banana crepe served with maple syrup</description>
+       <calories>200<calories> </food>
+   <food>
+       <name>Petite Muffin</name>
+       <price>50</price>
+       <description>Miniature french cupcakes with toppings of choices - strawberry , chocolate , vanilla , salted caramel</description>
+       <calories>150</calories> </food>
+   <food>
+       <name>Apple Pie</name>
+       <price>75</price>
+       <description>Delicious slice of pastry filled with a sweet apple filling , served with a dash of cream</description>
+       <calories>600</calories> </food>
+   <food>
+       <name>Vanilla Latte</name>
+       <price>100</price>
+       <description>Our bestsellers of all time - a glass of vanilla iced coffee</description>
+       <calories>950</calories> </food>
+</breakfast_menu>
+
