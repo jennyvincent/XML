@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  color: pink;
+  background-image: url('D:/web technology/latte.png');
+}
+
+
+h2 {
+  color : white ;
+}
+
+</style>
+</head>
+<body>
+
+<h2>Bestseller of the week<h2>
+
+<p id="demo"></p>
+
+<script>
+var myJSON = '{"menu":"Vanilla Latte", "price":100, "calories":600}';
+var myObj = JSON.parse(myJSON);
+document.getElementById("demo").innerHTML = myObj.menu;
+</script>
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+<!DOCTYPE cafe
+[
+<!ELEMENT food (menu,price)>
+<!ELEMENT menu (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+]>

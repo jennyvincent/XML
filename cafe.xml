@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cafe.xsl" type="text/xsl" ?>
+<!DOCTYPE cafe SYSTEM "food.dtd">
+<cafe>
+  <food>
+    <menu>Croissant</menu>
+    <price>45</price>
+    
+  </food>
+
+  <food>
+    <menu>Crepe</menu>
+    <price>35</price>
+    
+  </food>
+<food>
+    <menu>Petite Muffins</menu>
+    <price>35</price>
+    
+  </food>
+
+<food>
+    <menu>Churros</menu>
+    <price>45</price>
+    
+  </food>
+
+<food>
+    <menu>Vanilla Latte</menu>
+    <price>100</price>
+    
+  </food>
+<food>
+    <menu>Cappacino</menu>
+    <price>60</price>
+    
+  </food>
+<food>
+    <menu>Expresso</menu>
+    <price>75</price>
+    
+  </food>
+<food>
+    <menu>Lava Cake</menu>
+    <price>50</price>
+    
+  </food>
+<food>
+    <menu>Rainbow Swirls</menu>
+    <price>70
+</price>
+    
+  </food>
+<food>
+    <menu>Tea Cake</menu>
+    <price>45</price>
+    
+  </food>
+<food>
+    <menu>Lemon Tart</menu>
+    <price>30</price>
+    
+  </food>
+<food>
+    <menu>Apple Pie</menu>
+    <price>30</price>
+    
+  </food>
+<food>
+    <menu>Donuts</menu>
+    <price>30</price>
+    
+  </food>
+<food>
+    <menu>Blueberry Gallete</menu>
+    <price>150</price>
+    
+  </food>
+<food>
+    <menu>Red Velvet</menu>
+    <price>90</price>
+    
+  </food>
+<food>
+    <menu>Cheesecake</menu>
+    <price>90</price>
+    
+  </food>
+</cafe>
